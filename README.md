@@ -16,19 +16,19 @@ The goal was to map the technical and soft skills most frequently requested by c
 
 The analysis followed a simple but structured approach:
 
-- I searched for positions with titles like “Analista de Dados”, “Analista de BI”, “Cientista de Dados Júnior” and “Estágio em Ciência de Dados”.
+- I searched for positions with titles like “Data Analyst”, “BI Analyst”, “Junior Data Scientist” and “Data Science Internship”.
 - For each posting, I read the requirements and noted every technical and behavioral skill mentioned.
 - I then grouped and counted the frequency of each skill across the 20 openings per role.
 
 This led to two different views:
 - 📊 A **skill ranking** for Data Analysts and Data Scientists based on how often they appeared
-- 🧠 A **learning roadmap** based on this ranking, plus practical experience or reasoning
+- 🧠 A **learning order** based on this ranking, plus practical experience or reasoning
 
 ## 👀 Why You Might Want to Explore More
 
 By diving into the folders of this repo, you’ll find:
 - Full **skill frequency tables** for both roles
-- Two different **study roadmaps**
+- Two different ** order to study**
 - Insights into what matters most based on real job listings
 
 # 📌 Final Note
