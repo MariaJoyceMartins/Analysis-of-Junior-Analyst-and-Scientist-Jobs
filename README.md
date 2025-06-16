@@ -74,7 +74,7 @@ So how do you start?
 
 Start by building a **simple project in Excel**:
 - Use real-world data (sales, health, public datasets)
-- Create basic dashboards and clearly explain your findings
+- Create basic data visualization (with charts) and clearly explain your findings
 - Focus on answering questions like:
   - “What does this data mean?”
   - “What action should the business take?”
