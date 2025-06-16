@@ -5,8 +5,8 @@
 This project was created to help beginners understand which skills matter most when starting a career in **Data Analytics** or **Data Science** — based not on opinion, but on real job market data.
 
 Using recent job postings from **LinkedIn** and **Gupy**, I collected and analyzed **40 junior-level job descriptions**:
-- 20 for **Data Analyst** positions (my area of experience)
-- 20 for **Data Scientist** or **Data Science Internships**
+- 20 for **Data Analyst Junior** positions (my area of experience)
+- 20 for **Data Scientist Junior** or **Data Science Internships**
 
 The goal was to map the technical and soft skills most frequently requested by companies, and from that, suggest a **study roadmap** that makes sense both in terms of priority and learning curve.
 
