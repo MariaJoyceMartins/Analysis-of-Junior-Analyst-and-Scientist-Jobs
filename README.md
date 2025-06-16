@@ -15,9 +15,8 @@ By the end of this document, you will have a **clear, practical, and data-driven
 
 ## 🔍 Methodology
 
-To ensure a realistic market overview, we manually analyzed **40 job postings**:
+To ensure a realistic market overview, we manually analyzed **20 job postings**:
 - 20 for *Junior Data Analyst* (search terms: “Data Analyst” and “BI Analyst”)
-- 20 for *Junior or Intern Data Scientist*
 
 Job descriptions were collected from **LinkedIn** and **Gupy**, and we extracted all mentioned **technical and behavioral skills**, along with their **frequency of occurrence**.
 
