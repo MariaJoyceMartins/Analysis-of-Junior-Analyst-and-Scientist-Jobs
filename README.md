@@ -1,8 +1,6 @@
 ## Analysis-of-Junior-Analyst-and-Scientist-Jobs
 
 
-# 📘 Strategic Study Guide for Aspiring Data Analysts and Scientists
-
 ## 🎯 Objective
 
 This project aims to **guide beginners in the data field** — whether you're looking to land your first job or earn a promotion — based on **current market demands and real job data**.
