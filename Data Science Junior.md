@@ -25,9 +25,13 @@ We extracted all mentioned **technical and soft skills**, tracking their **frequ
 - 📄 **Total distinct skills identified**: 21  
 - 🔝 **Top 10 most requested skills**:  
   `Python`, `SQL`, `Machine Learning`, `Statistics`, `R`, `Data Visualization`, `Analytical Thinking`, `Excel`, `Communication`, `Cloud`
+![image](https://github.com/user-attachments/assets/dca798ac-4753-4c55-8e46-fd46e3f26d19)
+
 
 - ⚠️ **Least mentioned skills** (only 1 mention each):  
   `LGPD`, `Airflow`, `Jupyter Notebook`, `Analysis Automation`  
+![image](https://github.com/user-attachments/assets/7149c5d2-25ee-4f7f-afa2-79f13d543fbe)
+
   > These are **not a priority** for beginners.
 
 ---
