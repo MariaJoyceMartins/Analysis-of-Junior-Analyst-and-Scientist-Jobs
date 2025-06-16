@@ -31,7 +31,7 @@ By diving into the folders of this repo, you’ll find:
 - Two different ** order to study**
 - Insights into what matters most based on real job listings
 
-# 📌 Final Note
+## 📌 Final Note
 
 This is not a definitive guide, but a snapshot of the current market needs based on real data.
 It was made to help you study smarter, not harder — and to focus on skills that give real career returns.
