@@ -1,2 +1,5 @@
-# Analysis-of-Junior-Analyst-and-Scientist-Jobs
-Discover the main skills required by a Junior Data Analyst or Data Scientist to start studying them and achieve your dream job
+## Analysis-of-Junior-Analyst-and-Scientist-Jobs
+
+# Objective: It aims to guide the study of beginners based on what the market demands most, whether to enter the area or be promoted to the position - all based on recent data -
+
+# 
