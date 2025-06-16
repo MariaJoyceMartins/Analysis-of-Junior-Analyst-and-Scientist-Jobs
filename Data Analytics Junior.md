@@ -65,7 +65,7 @@ Here is a suggested study order that balances **market frequency**, **learning d
 
 ---
 
-## 🧠 Data Storytelling: Becoming a Data Analyst with Real Projects
+## 🧠 Becoming a Data Analyst with Real Projects
 
 Imagine you’re starting from scratch. You’re watching tutorials, learning syntax, writing your first Python scripts... but still feel unprepared. Why?
 
