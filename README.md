@@ -1,4 +1,4 @@
-## Analysis-of-Junior-Analyst-and-Scientist-Jobs
+## Analysis-of-Junior-Analyst-Data-Jobs
 
 
 ## 🎯 Objective
