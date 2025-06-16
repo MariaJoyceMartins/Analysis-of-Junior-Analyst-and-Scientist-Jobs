@@ -14,9 +14,9 @@ By the end of this analysis, you will have a **clear, data-driven learning path*
 
 To reflect real-world expectations, we manually analyzed **20 job postings** from **LinkedIn** and **Gupy** for the following roles:
 
-- "Cientista de Dados Júnior"
-- "Estágio em Ciência de Dados"
-- "Prevenção à Fraude Júnior"
+- "Junior Data Scientist"
+- "Data Science Internship"
+- "Junior Fraud Prevention"
 
 We extracted all mentioned **technical and soft skills**, tracking their **frequency across postings**.
 
