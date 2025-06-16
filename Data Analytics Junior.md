@@ -8,7 +8,7 @@ This project aims to **guide beginners in the data field** — whether you're lo
 By the end of this document, you will have a **clear, practical, and data-driven roadmap** showing:
 
 - Which skills are most and least in demand
-- The recommended learning order based on skill frequency, difficulty, and impact
+- The recommended learning order based on skill frequency, difficulty, and impact (basead on my experience working with Data Analytics)
 - How to develop meaningful projects to strengthen your portfolio and land interviews
 
 ---
@@ -46,16 +46,18 @@ The following skills appeared **only once** across the 20 analyst job postings:
 
 Here is a suggested study order that balances **market frequency**, **learning difficulty**, and **real-world application**:
 
-1. **Excel**
-2. **Analytical Thinking**
-3. **Communication**
-4. **Data Storytelling**
-5. **SQL**
-6. **Power BI**
-7. **Python or R**  
-   > Tip: Start with Python — it’s more frequently required and widely used.
-8. **ETL**
-9. **Tableau**
+📚 Best Order to Learn – Data Analytics Roadmap
+#	Skill	Difficulty	Why It Matters
+1	Excel	🟢 Easy	Ideal for building your analytical mindset and working with data from day one.
+2	Analytical Thinking	🟡 Conceptual	Core to solving business problems and drawing actionable conclusions from data.
+3	Communication	🟡 Soft Skill	Crucial to transform data findings into business insights stakeholders can act on.
+4	Data Storytelling	🟡 Soft Skill	Enhances your ability to narrate data-driven stories that lead to decisions.
+5	SQL	🟢 Easy	Most essential skill for querying structured databases and extracting insights.
+6	Power BI	🟢 Easy to Medium	Widely used for creating dashboards and visual reports that drive decisions.
+7	Python	🟡 Medium	Adds automation and advanced analysis capabilities; great for larger datasets.
+8	ETL	🟡 Medium	Enables you to clean, transform, and load data into analysis-ready formats.
+9	Tableau	🟢 Easy to Medium	Alternative to Power BI with strong visualization capabilities.
+10	R (Optional)	🟡 Medium	Useful for statistical analysis in specialized domains like academia or health.
 
 ---
 
